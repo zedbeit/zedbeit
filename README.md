@@ -8,8 +8,7 @@ I'm currently contributing to [Quarkus](https://quarkus.io/) open source project
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning more about Java and Open Source.
+- 🌱 I’m currently learning more about Java, open source and cloud.
 - 😊 I’m looking forward to becoming a [Java Champion](https://dev.java/community/jcs/) one day.
 - 💼 Job interests: Open Source Engineer or Backend Engineer.
 - 📫 You can contact me by emailing lordzeddy31@gmail.com.
